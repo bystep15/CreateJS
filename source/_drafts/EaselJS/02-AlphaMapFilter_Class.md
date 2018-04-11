@@ -103,7 +103,7 @@ The greyscale image (or canvas) to use as the alpha value for the result. This s
 
      为此过滤器提供内边距值。也就是说，过滤器将这个值扩展到对象的可视范围。
 
-     Parameters: [rect](optional)
+     Parameters: [rect]  (optional)
 
      If specified, the provided Rectangle instance will be expanded by the padding amounts and returned.
 
